@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aydinakbuga
-- 👀 I’m interested in Python 3
-- 🌱 I’m currently learning Python 3
+- 👀 I’m a Linux user and i know Python 3
+- 🌱 I’m currently interested in algorithmics.
 - 💞️ I’m looking to collaborate on any project. A am a newbie here and on programming.
 - 📫 How to reach me ? It is easy aydinakbuga@gmail.com
 
